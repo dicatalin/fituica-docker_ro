@@ -4,7 +4,7 @@
 
 - Listare containere active
 
-```shell
+```bash
 $ docker ps
 ```
 
