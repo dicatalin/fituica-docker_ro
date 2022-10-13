@@ -26,6 +26,12 @@ $ docker image ls
 $ docker image ls -a
 ```
 
+- Listare imagini neconectate la nici un container
+
+```bash
+$ docker images -f dangling=true
+```
+
 #### Creare imagini
 
 ```bash
